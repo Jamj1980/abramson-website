@@ -16,17 +16,21 @@ export default function Home() {
         <p style={{ maxWidth: "750px", margin: "30px auto", fontSize: "20px", lineHeight: "1.6" }}>
           Helping entrepreneurs, business owners, and investors make smarter financial decisions with clear business and tax strategies.
         </p>
-        <a href="mailto:info@abramsonresources.com" style={{
-          display: "inline-block",
-          background: "white",
-          color: "#1e3a8a",
-          padding: "15px 28px",
-          borderRadius: "10px",
-          textDecoration: "none",
-          fontWeight: "bold"
-        }}>
-          Schedule a Consultation
-        </a>
+        <a
+  href="https://calendly.com/info-39638/abramson-resources"
+  target="_blank"
+  style={{
+    display: "inline-block",
+    background: "white",
+    color: "#1e3a8a",
+    padding: "15px 28px",
+    borderRadius: "10px",
+    textDecoration: "none",
+    fontWeight: "bold"
+  }}
+>
+  Schedule a Consultation
+</a>
       </section>
 
       <section style={{ padding: "70px 25px", maxWidth: "1100px", margin: "0 auto" }}>
