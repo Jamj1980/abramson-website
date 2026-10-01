@@ -47,7 +47,7 @@ export default function Home() {
             ["Business Formation", "Start your company with the right structure and foundation."],
             ["Tax Advising", "Plan ahead and make smarter tax decisions throughout the year."],
             ["Tax Preparation", "Professional tax preparation support for individuals and businesses."],
-            ["Business Strategy", "Guidance for growth, structure, cash flow, and long-term planning."]
+            ["Business Strategy", "Guidance for growth, structure, cash flow, and long-term planning."],
             ["Credit & Financial Solutions", "Personalized guidance to help clients understand credit, improve financial positioning, and build stronger financial strategies."]
           ].map(([title, text]) => (
             <div key={title} style={{
