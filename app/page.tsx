@@ -90,7 +90,5 @@ export default function Home() {
       </section>
     </main>
   );
-}git add .
-git commit -m "Add Credit and Financial Solutions service"
-git push
+}
 
