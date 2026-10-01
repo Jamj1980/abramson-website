@@ -14,7 +14,7 @@ export default function Home() {
           Business Formation • Tax Advising • Tax Preparation • Strategy
         </h2>
         <p style={{ maxWidth: "750px", margin: "30px auto", fontSize: "20px", lineHeight: "1.6" }}>
-          Helping entrepreneurs, business owners, and investors make smarter financial decisions with clear business and tax strategies.
+          Helping entrepreneurs, business owners, investors, and individuals make smarter financial decisions through business, tax, credit, and financial solutions.
         </p>
         <a
   href="https://calendly.com/info-39638/abramson-resources"
