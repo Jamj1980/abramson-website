@@ -6,7 +6,16 @@ export default function Home() {
         color: "white",
         padding: "80px 25px",
         textAlign: "center"
-      }}>
+      }}><img
+  src="/abramson-logo.png"
+  alt="Abramson Resources LLC"
+  style={{
+    width: "300px",
+    maxWidth: "90%",
+    height: "auto",
+    marginBottom: "25px"
+  }}
+/>
         <h1 style={{ fontSize: "52px", marginBottom: "15px" }}>
           Abramson Resources LLC
         </h1>
